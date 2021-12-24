@@ -10,7 +10,7 @@
 https://example.com/index.php?route=product/product/addtocart&product_id=1
 ```
 
-Пример ссылки для добавления в корзину 5 единиц товара с id = 1
+Пример ссылки для добавления в корзину 5-ти единиц товара с id = 1
 
 ```
 https://example.com/index.php?route=product/product/addtocart&product_id=1&quantity=5
