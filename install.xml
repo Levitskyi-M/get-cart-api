@@ -50,4 +50,14 @@
 
   </file>
 
+  <file path="catalog/controller/startup/seo_pro.php">
+
+	<!-- ocStore 2.3 SeoPro -->
+	<operation error="skip">
+		<search><![CDATA[case 'product/product/review':]]></search>
+		<add position="before"><![CDATA[			case 'product/product/addtocart':]]></add>
+	</operation>
+
+  </file>
+
 </modification>
